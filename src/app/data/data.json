@@ -1,16 +1,5 @@
 [
-    {
-      "Report Name": "Global Pea Protein Market Report",
-      "Segment": "Asia Pacific Region",
-      "Sub-Segment": "CHINA",
-      "Year": 2018,
-      "Volume": "",
-      "Volume UOM": "KMT",
-      "Value": 58.1871363069488,
-      "Value UOM": "Million US$",
-      "Price": "",
-      "Price UOM": "$/MT"
-    },
+   
     {
       "Report Name": "Global Pea Protein Market Report",
       "Segment": "Asia Pacific Region",
@@ -19,6 +8,18 @@
       "Volume": "",
       "Volume UOM": "KMT",
       "Value": 76.1646525625589,
+      "Value UOM": "Million US$",
+      "Price": "",
+      "Price UOM": "$/MT"
+    },
+    {
+      "Report Name": "Global Pea Protein Market Report",
+      "Segment": "Asia Pacific Region",
+      "Sub-Segment": "CHINA",
+      "Year": 2018,
+      "Volume": "",
+      "Volume UOM": "KMT",
+      "Value": 58.1871363069488,
       "Value UOM": "Million US$",
       "Price": "",
       "Price UOM": "$/MT"
