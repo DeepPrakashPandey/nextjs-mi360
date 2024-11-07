@@ -5,9 +5,9 @@
   "homepage": "https://github.com/DeepPrakashPandey/nextjs-mi360.git",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "build": "[my-framework] build --output public"
   },
   "dependencies": {
     "@amcharts/amcharts5": "^5.10.5",
