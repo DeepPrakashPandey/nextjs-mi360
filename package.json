@@ -5,8 +5,8 @@
   "homepage": "https://github.com/DeepPrakashPandey/nextjs-mi360.git",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
     "start": "next start",
+    "build": "next build",
     "lint": "next lint"
   },
   "dependencies": {
