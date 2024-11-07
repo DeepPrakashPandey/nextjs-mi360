@@ -1,0 +1,70 @@
+.main {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 20px;
+}
+
+.DistributionCharList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 82%;
+  height: fit-content;
+  text-align: center;
+  justify-content: right;
+  transition: all 0.5s ease;
+}
+.DistributionCharList > div {
+  height: max-content;
+}
+.DistributionCharList > div > div {
+  border: 1px solid;
+  width: 100%;
+}
+.buttonContainer {
+  display: flex;
+  flex-wrap: wrap;
+  /* width: 100%; */
+  margin-left: 20px;
+  gap: 10px;
+}
+.segment {
+  border-radius: 25px;
+  /* display: block; */
+  padding: 12px 12px;
+  font-size: 16px;
+  width: 200px;
+  color: white;
+  background: linear-gradient(45deg, #6a11cb, #2575fc);
+  border: none;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.segment:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-evenly;
+  gap: 10px;
+}
+.chartheader {
+  background-color: rgb(49, 52, 92);
+  color: #ecf0f1;
+  font-size: 16px;
+}
+/* .colorContainer {
+  display: flex;
+  gap: 10px;
+}
+.selectColor {
+  width: 20px;
+  height: 20px;
+  display: flex;
+}
+.colorContainer .selectColor {
+  color: black;
+} */

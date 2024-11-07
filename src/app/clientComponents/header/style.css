@@ -1,0 +1,64 @@
+.mainheader {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 30px;
+  background-color: #2c3e50;
+  color: #ecf0f1;
+  /* width: 100%; */
+  text-align: center;
+}
+.flex-header {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.flex-header-2 h1 {
+  font-size: 35px;
+  font-weight: 500;
+}
+.flex-header-3 {
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+.Showlables .MuiSwitch-root {
+  margin-left: 10px;
+}
+.selectSubsegmentContainer {
+  background-color: #d1d9e2;
+}
+#subsegment {
+  text-align: left;
+  align-self: center;
+}
+#select-subsegment[data-shrink="false"] {
+  color: black;
+  transform: translate(8px, 8px);
+}
+#select-subsegment[data-shrink="true"] {
+  color: rgb(114, 160, 212);
+}
+.selectSubSegment {
+  height: 40px;
+  color: black;
+}
+.pillContainer {
+  display: flex;
+  gap: 20px;
+}
+
+.pillStyle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 50px;
+  background-color: #d1d9e2;
+  border-radius: 25px;
+  color: black;
+  font-family: Arial sans-serif;
+  font-weight: bold;
+  border: 1px solid #000;
+  text-align: center;
+}
